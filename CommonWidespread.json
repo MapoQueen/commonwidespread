@@ -22,6 +22,39 @@
           "https://file.garden/aN1qr2YmaWI-OojD/26/09.jpg"
         ]
       }
+    },
+    "27": {
+      "title": "27",
+      "volume": "",
+      "last_updated": "1762986095",
+      "groups": {
+        "": [
+          "https://file.garden/aN1qr2YmaWI-OojD/27/01.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/27/02.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/27/03.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/27/04.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/27/05.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/27/06.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/27/07.jpg"
+        ]
+      }
+    },
+    "28": {
+      "title": "28",
+      "volume": "",
+      "last_updated": "1762986119",
+      "groups": {
+        "": [
+          "https://file.garden/aN1qr2YmaWI-OojD/28/01.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/28/02.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/28/03.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/28/04.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/28/05.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/28/06.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/28/07.jpg",
+          "https://file.garden/aN1qr2YmaWI-OojD/28/08.jpg"
+        ]
+      }
     }
   }
 }
